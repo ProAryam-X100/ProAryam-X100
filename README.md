@@ -1,10 +1,13 @@
-# Hello world - I'm Aryam Aseiri!
+<h2> Hello World, I'm Aryam Aseiri ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-![Header](https://your-image-url.com/header-image.jpg)
+<div align="center" width="50">
+
+<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="300"/>
 
 ## About Me
-
-Hello! I am a software developer passionate about software development and computer science. I love learning and acquiring new skills in programming.
+- Computer Student In University Of Jeddah
+- I always strive to develop innovative software solutions
+- I work to combine creativity with technology 🖥️
 
 ## Programming Languages
 
