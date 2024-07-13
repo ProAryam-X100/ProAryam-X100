@@ -33,5 +33,5 @@
     </a>
 </div>
 
-
-## Thank you for visiting my profile!
+##
+ Thank you for visiting my profile!
