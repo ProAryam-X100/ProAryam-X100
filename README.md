@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Aryam 
- 
+- C and Java programmer
+- Web Developer
+- I always strive to develop innovative software solutions
+- I work to combine creativity with technology 🖥️
 <!--
 **ProAryam-X100/ProAryam-X100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
