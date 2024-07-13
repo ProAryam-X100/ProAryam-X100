@@ -11,16 +11,22 @@
 
 ## Programming Languages
 
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 ## Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProAryam-X100)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryam-aseiri-85561a2a9)
+<div align="center">
+    <a href="https://twitter.com/yourusername" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://github.com/yourusername" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://linkedin.com/in/yourusername" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/>
+    </a>
+</div>
 
 
----
-
-Thank you for visiting my profile!
+## Thank you for visiting my profile!
