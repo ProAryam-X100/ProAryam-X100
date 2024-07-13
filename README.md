@@ -11,20 +11,25 @@
 
 ## Programming Languages
 
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="margin: 0 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 0 10px;"/>
+</p>
 
 ## Connect with Me
 
 <div align="center">
     <a href="https://twitter.com/yourusername" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 10px;"/>
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 13px;"/>
     </a>
     <a href="https://github.com/yourusername" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 10px;"/>
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
     </a>
     <a href="https://linkedin.com/in/yourusername" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;"/>
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 13px;"/>
     </a>
 </div>
 
