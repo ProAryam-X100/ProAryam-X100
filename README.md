@@ -22,13 +22,13 @@
 ## Connect with Me
 
 <div align="center">
-    <a href="https://twitter.com/yourusername" target="blank">
+    <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
         <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 13px;"/>
     </a>
-    <a href="https://github.com/yourusername" target="blank">
+    <a href="https://github.com/ProAryam-X100" target="blank">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
     </a>
-    <a href="https://linkedin.com/in/yourusername" target="blank">
+    <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9" target="blank">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 13px;"/>
     </a>
 </div>
