@@ -31,12 +31,18 @@
     </a>
 </div>
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&repo=ProAryam-X100/README.md&theme=dark)
+## GitHub Stats and Most Used Languages
 
-
-## ProAryam-X100's GitHub Stats
-![ProAryam-X100's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=dark" alt="ProAryam-X100's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&theme=dark" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 
 
