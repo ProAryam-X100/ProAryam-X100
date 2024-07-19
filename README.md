@@ -31,5 +31,16 @@
     </a>
 </div>
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&repo=ProAryam-X100/README.md&theme=dark)
+
+
+## ProAryam-X100's GitHub Stats
+![ProAryam-X100's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=dark)
+
+
+
+
+
 ##
  Thank you for visiting my profile!
