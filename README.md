@@ -5,7 +5,7 @@
 <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="300"/>
 
 ## About Me
-- Computer Student In University Of Jeddah
+- Computer Student 
 - I always strive to develop innovative software solutions
 - I work to combine creativity with technology 🖥️
 
