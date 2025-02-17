@@ -5,9 +5,9 @@
 <img src="https://images.imyfone.com/en/assets/other/ai-tools/ai-gif.png" width="300"/>
 
 ## About Me
-- Computer Student 
-- I always strive to develop innovative software solutions
-- I work to combine creativity with technology 🖥
+- Computer Science Student - Generative AI 
+- Proficient in programming and artificial intelligence tools 
+- I'm working on projects using data analytics and artificial intelligence in smart cities 🖥
 
 ## Programming Languages
 
