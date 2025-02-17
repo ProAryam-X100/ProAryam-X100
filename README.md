@@ -14,7 +14,7 @@ I also create content about AI and programming to help others learn and grow.
 ### 🌍 Connect with Me  
 <div align="center">
     <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/X.png" alt="Twitter" style="margin: 0 13px;"/>
+        <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid" alt="Twitter" style="margin: 0 13px;"/>
     </a>
     <a href="https://github.com/ProAryam-X100" target="blank">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
