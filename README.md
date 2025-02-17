@@ -4,12 +4,12 @@
 
 <img src="https://images.imyfone.com/en/assets/other/ai-tools/ai-gif.png" width="300"/>
 
-### 🚀 About Me
+###  About Me 🚀
 - Computer Science Student - Generative AI 
 - Proficient in programming and artificial intelligence tools 
-- I'm working on projects using data analytics and artificial intelligence in smart cities 🖥
+- I'm working on projects using data analytics and artificial intelligence in smart cities 
 
-### 🛠️ Programming Languages & Skills
+###  Programming Languages & Skills 🛠️
 
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px;"/>
@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 0 10px;"/>
 </p>
 
-### 🌍 Connect with Me
+###  Connect with Me 🌍
 
 <div align="center">
     <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
@@ -31,7 +31,7 @@
     </a>
 </div>
 
-### 📊 GitHub Stats and Most Used Languages
+###  GitHub Stats and Most Used Languages 📊
 
 <table>
   <tr>
