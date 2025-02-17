@@ -1,52 +1,21 @@
-<h2> Hello World, I'm Aryam Aseiri ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## 👋 Hello World, I'm Aryam Aseiri!  
 
-<div align="center" width="50">
+### 🚀 About Me  
+🎓 **Computer Engineering Student** | 💡 Passionate about AI & Software Development  
+I strive to build innovative solutions that blend creativity with technology.  
+I also create content about AI and programming to help others learn and grow.  
 
-<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="300"/>
+### 🛠️ Programming Languages & Skills  
+- **Languages:** C, Java, Python  
+- **AI & Data Science:** Machine Learning, Deep Learning, Data Analysis  
+- **Tools & Frameworks:** TensorFlow, PyTorch, OpenCV, Pandas  
+- **Software Development:** OOP, Data Structures, Algorithms  
 
-## About Me
-- Computer Student 
-- I always strive to develop innovative software solutions
-- I work to combine creativity with technology 🖥️
+### 🌍 Connect with Me  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ill_Ar100)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryamaseiri)  
 
-## Programming Languages
-
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="margin: 0 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 0 10px;"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin: 0 10px;"/>
-</p>
-
-## Connect with Me
-
-<div align="center">
-    <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 13px;"/>
-    </a>
-    <a href="https://github.com/ProAryam-X100" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 13px;"/>
-    </a>
-</div>
-
-## GitHub Stats and Most Used Languages
-
-<table>
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ProAryam-X100&show_icons=true&theme=dark" alt="ProAryam-X100's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAryam-X100&theme=dark" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-##
- Thank you for visiting my profile!
+### 📊 GitHub Stats  
+![Aryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
