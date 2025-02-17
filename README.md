@@ -14,7 +14,7 @@ I also create content about AI and programming to help others learn and grow.
 ### 🌍 Connect with Me  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ill_Ar100)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryamaseiri)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?](https://img.icons8.com/fluent/48/000000/linkedin.png)style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryamaseiri)  
 
 ## GitHub Stats and Most Used Languages
 
