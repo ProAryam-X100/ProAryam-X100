@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://cdn.techinasia.com/wp-content/uploads/2024/01/1706603434_Featured-image-What-I-learned-about-genAI-from-failing-to-scale-my-AI-startup-1200x640-1.gif" width="300"/>
+<img src="https://images.imyfone.com/en/assets/other/ai-tools/ai-gif.png" width="300"/>
 
 ## About Me
 - Computer Student 
