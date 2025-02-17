@@ -1,8 +1,8 @@
-<h2> Hello World, I'm Aryam Aseiri ! <img src="https://cdn.techinasia.com/wp-content/uploads/2024/01/1706603434_Featured-image-What-I-learned-about-genAI-from-failing-to-scale-my-AI-startup-1200x640-1.gif" width="30px"></h2>
+<h2> Hello World, I'm Aryam Aseiri ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
-<img src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="300"/>
+<img src="https://cdn.techinasia.com/wp-content/uploads/2024/01/1706603434_Featured-image-What-I-learned-about-genAI-from-failing-to-scale-my-AI-startup-1200x640-1.gif" width="300"/>
 
 ## About Me
 - Computer Student 
