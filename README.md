@@ -12,17 +12,17 @@ I also create content about AI and programming to help others learn and grow.
 - **Software Development:** OOP, Data Structures, Algorithms  
 
 ### 🌍 Connect with Me  
-<p align="center">
-  <a href="https://x.com/ill_Ar100">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&borderRadius=50" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryamaseiri">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
-  </a>
-</p>
+<div align="center">
+    <a href="https://x.com/ill_Ar100?t=rUeGmYjwmyPhpX4SmqGNBA&s=09" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin: 0 13px;"/>
+    </a>
+    <a href="https://github.com/ProAryam-X100" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" style="margin: 0 13px;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/aryam-aseiri-85561a2a9" target="blank">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin: 0 13px;"/>
+    </a>
+</div>
 
 
 
