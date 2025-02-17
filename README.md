@@ -12,9 +12,18 @@ I also create content about AI and programming to help others learn and grow.
 - **Software Development:** OOP, Data Structures, Algorithms  
 
 ### 🌍 Connect with Me  
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50)](https://x.com/ill_Ar100)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&logoWidth=20&borderRadius=50)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20&borderRadius=50)](https://www.linkedin.com/in/aryamaseiri)  
+<p align="center">
+  <a href="https://x.com/ill_Ar100">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&borderRadius=50" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=50" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryamaseiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50" />
+  </a>
+</p>
+
 
 
 ## GitHub Stats and Most Used Languages
